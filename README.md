@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~部落格故障重建中~
 
 
 ![TTYeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
