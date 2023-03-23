@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 ## SideProject集合
 
-| 項目 | 發布網址 | GitHub連結 |
-| -------- | -------- | -------- |
-| 【WinForm】C#_Winfrom題目練習     |      | [Winform練習](https://github.com/TTYeh/Eddy_CsharpWinform_Practice)     |
-| 【Maui】手機剪刀石頭布     |  [ Google Play ](https://play.google.com/store/apps/details?id=com.companyname.nolab_gagame_practice)  | [剪刀石頭布](https://github.com/TTYeh/Nolab_RpsGameApp_Demo4TF)     |
-| 【網頁】猜數字遊戲   |  [ 網站連結 ](ispanfinalprojwebapp20230315.azurewebsites.net)  | [猜數字(不公開)](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     |
+| 項目 | 發布網址 | GitHub連結 |影片連結 |
+| -------- | -------- | -------- |-------- |
+| 【WinForm】C#_Winfrom題目練習     |      | [Winform練習](https://github.com/TTYeh/Eddy_CsharpWinform_Practice)     ||
+| 【Maui】手機剪刀石頭布     |  [ Google Play ](https://play.google.com/store/apps/details?id=com.companyname.nolab_gagame_practice)  | [剪刀石頭布](https://github.com/TTYeh/Nolab_RpsGameApp_Demo4TF)     |[YT連結](https://www.youtube.com/shorts/5D868kG49gI)|
+| 【網頁】猜數字遊戲   |  [ 網站連結 ](https://ispanfinalprojwebapp20230315.azurewebsites.net)  | [猜數字(不公開)](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     ||
 
 
 ## 學習筆記&程式庫集合
