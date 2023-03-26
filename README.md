@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 [我的履歷](https://www.cakeresume.com/s--lvYtog60I6a8NnbdcjTjBQ--/iamgod08246549)
+- 🔭 [我的履歷](https://www.cakeresume.com/s--XR0xKXCeOPriFI44CpIaSg--/iamgod08246549)
 
 - 🌱 [我的部落格](https://medium.com/@iamgod08246549)
 - 🤔 [我的AzureDevops(不公開)](https://dev.azure.com/ttyeh0417/Ispan_RravelWeb_GroupProject/_boards/board/t/Ispan_RravelWeb_GroupProject%20Team/Issues)
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 | 【WinForm】C#_Winfrom題目練習     |      | [Winform練習](https://github.com/TTYeh/Eddy_CsharpWinform_Practice)     ||
 | 【Maui】手機剪刀石頭布     |  [ Google Play ](https://play.google.com/store/apps/details?id=com.companyname.nolab_gagame_practice)  | [剪刀石頭布](https://github.com/TTYeh/Nolab_RpsGameApp_Demo4TF)     |[YT連結](https://www.youtube.com/shorts/5D868kG49gI)|
 | 【網頁】猜數字遊戲   |  [ 網站連結 ](https://ispanfinalprojwebapp20230315.azurewebsites.net)  | [猜數字(不公開)](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     ||
+| 【Python】OCR辨識7段顯示器  |   |     |[YT連結](https://youtu.be/SDiRdXvfN3s)|
+
 
 
 ## 學習筆記&程式庫集合
