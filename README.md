@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 | 7. Azure筆記   |  [Azure筆記](https://hackmd.io/WgtZKpYHTKi11LSasziVvA)  | NO     |
 | 9. PowerBI   |  [PowerBI筆記](https://hackmd.io/8Gix2-PsQaqSCR9AmggWOQ)  | [PowerBI Repo](https://github.com/TTYeh/ispan_PowerBi_Practice )     |
 | 10. MSSQL   |  [MSSQL筆記](https://hackmd.io/0e0kY-iFRKSJK7rAh_2Z8A)  | [ADO.NET Repo](https://github.com/TTYeh/Ispan_AdoDotNet_Practice )     |
+| 11. AJAX   |  [AJAX筆記](https://hackmd.io/rVm1L73ZSRqLSe9m61cf-A)  | [AJAX Repo](https://github.com/TTYeh/Ispan_AJAX_Practice )     |
+
 
 ## 其他連結集合
 
@@ -45,8 +47,7 @@ Here are some ideas to get you started:
 | ==文章閱讀==         | :---                                                                  | :---           | :---        |        | 
 | 1.優良文章筆記       | [優良文章筆記](https://hackmd.io/a-xDrLZvSnC22BzxuBEHgw)              |                | No          |        | 
 | 2.c#簡單題目連結     | [題目連結](https://hackmd.io/TxQzaB5aRtCTCGDViiBrxQ)                  |                | No          |        | 
-
-
+| 3.ChapGPT詠唱術     | [筆記連結](https://hackmd.io/-1eJdgBiQNyeF2lTJlCg4Q)                  |                | No          |        | 
 
 
 
