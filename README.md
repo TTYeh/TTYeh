@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 | -------- | -------- | -------- |-------- |
 | 【WinForm】C#_Winfrom題目練習     |      | [Winform練習](https://github.com/TTYeh/Eddy_CsharpWinform_Practice)     ||
 | 【Maui】手機剪刀石頭布     |  [ Google Play ](https://play.google.com/store/apps/details?id=com.companyname.nolab_gagame_practice)  | [剪刀石頭布](https://github.com/TTYeh/Nolab_RpsGameApp_Demo4TF)     |[YT連結](https://www.youtube.com/shorts/5D868kG49gI)|
-| 【網頁】猜數字遊戲   |  [ 網站連結 ](https://ispanfinalprojwebapp20230315.azurewebsites.net)  | [猜數字(不公開)](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     ||
+| 【ASP.NET Core網頁】餐風旅宿網站   |  [ 網站連結 ](https://yedianzan.com)  | [程式庫](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     ||
 | 【Python】OCR辨識7段顯示器  |   |     |[YT連結](https://youtu.be/SDiRdXvfN3s)|
 
 
