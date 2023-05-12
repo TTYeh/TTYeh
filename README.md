@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 | 【Maui】手機剪刀石頭布     |  [ Google Play ](https://play.google.com/store/apps/details?id=com.companyname.nolab_gagame_practice)  | [剪刀石頭布](https://github.com/TTYeh/Nolab_RpsGameApp_Demo4TF)     |[YT連結](https://www.youtube.com/shorts/5D868kG49gI)|
 | 【ASP.NET Core網頁】餐風旅宿網站   |  [ 網站連結 ](https://yedianzan.com)  | [程式庫](https://github.com/TTYeh/Ispan_Hostel_GroupProject)     ||
 | 【Python】OCR辨識7段顯示器  |   |     |[YT連結](https://youtu.be/SDiRdXvfN3s)|
+| 【C#】筆電視訊鏡頭控制  |   |     |整理中|
 
 
 
