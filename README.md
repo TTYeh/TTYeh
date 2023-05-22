@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 | 1.優良文章筆記       | [優良文章筆記](https://hackmd.io/a-xDrLZvSnC22BzxuBEHgw)              |                | No          |        | 
 | 2.c#簡單題目連結     | [題目連結](https://hackmd.io/TxQzaB5aRtCTCGDViiBrxQ)                  |                | No          |        | 
 | 3.ChapGPT詠唱術     | [筆記連結](https://hackmd.io/-1eJdgBiQNyeF2lTJlCg4Q)                  |                | No          |        | 
-
+| 4.面試考古題     | [筆記連結](https://hackmd.io/77B5bPLYRK2fqdqQYprhNQ?edit)                  |                | No          |        | 
 
 
 ![TTYeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTYeh)
